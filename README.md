@@ -5,7 +5,7 @@ minigame feito durante a disciplina de estrutura de dados
 
 Tropas de Combate é um minigame criado como parte dos estudos da disciplina de Estrutura de Dados, com o objetivo de aplicar conceitos como Tipos Abstratos de Dados (TADs), fila dinâmica, e organização modular de código.
 
-O projeto foi desenvolvido na IDE Visual Studio Community, utilizando as linguagens C e C++, com ênfase na aplicação prática de estruturas de dados em um contexto lúdico e interativo.
+O projeto foi desenvolvido na IDE Visual Studio Community, utilizando a linguagen C++, com ênfase na aplicação prática de estruturas de dados em um contexto lúdico e interativo.
 
 ## 📂 Organização do Repositório
 
