@@ -1,0 +1,8 @@
+﻿  menu.cpp
+C:\Users\manub\OneDrive\Área de Trabalho\estrutura de dados\Tropas de Combate\Tropas de Combate\tadFila.h(4,16): warning C4091: 'typedef ': ignorado à esquerda de 'TROPA' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'menu.cpp')
+  
+C:\Users\manub\OneDrive\Área de Trabalho\estrutura de dados\Tropas de Combate\Tropas de Combate\tadFila.h(12,16): warning C4091: 'typedef ': ignorado à esquerda de 'RELATORIO' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'menu.cpp')
+  
+  Tropas de Combate.vcxproj -> C:\Users\manub\OneDrive\Área de Trabalho\estrutura de dados\Tropas de Combate\x64\Debug\Tropas de Combate.exe
