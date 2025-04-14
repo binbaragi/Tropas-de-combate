@@ -13,15 +13,14 @@ A estrutura de diretórios do projeto é a seguinte:
 ```
 ./--- tropas de combate/                      # Diretório principal do projeto
 │
-├─── tropas de combate/                       # Contém os arquivos-fonte (.c/.cpp, .h)
-│   ├── main.c / main.cpp                     # Arquivo principal do jogo
-│   ├── estrutura.c / estrutura.cpp           # Implementação das TADs
-│   ├── estrutura.h                           # Cabeçalhos das estruturas
+├─── tropas de combate/                       # Contém os arquivos-fonte 
+│   ├── main.cpp                              # Arquivo principal do jogo
+│   ├── tadFila.h                             # Implementação das TADs
 │   └── ...                                   # Outros arquivos relacionados
 │
 ├─── tropas de combate.sln                    # Solução do projeto (Visual Studio)
 │
-└─── x64/Debug/                               # Diretório de build (gerado automaticamente)
+└─── x64/Debug/                               # Diretório de build
 ```
 
 ## 📬 Contato
